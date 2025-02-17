@@ -1,0 +1,583 @@
+Protel Design System Design Rule Check
+PCB File : D:\Ñ§Ï°×ÊÁÏ\IMX6ULL_HYB\I.MX6ULL_CoreBoard\IMX6ULL_CORE\PCB1.PcbDoc
+Date     : 2025/2/15
+Time     : 0:39:36
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=4mil) (IsTrack > (InDifferentialPairClass('All Differential Pairs'))),(IsTrack)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=50mil) (Preferred=10mil) (InNetClass('PWR'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4mil) (Max=50mil) (Preferred=4mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (2.853mil < 10mil) Between Arc (2079.988mil,788.63mil) on Top Overlay And Pad R44-1(2060mil,807.04mil) on Top Layer [Top Overlay] to [Top Solder] clearance [2.853mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (2.643mil < 10mil) Between Arc (2079.988mil,791.37mil) on Top Overlay And Pad R44-1(2060mil,807.04mil) on Top Layer [Top Overlay] to [Top Solder] clearance [2.643mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.389mil < 10mil) Between Arc (2079.988mil,818.63mil) on Top Overlay And Pad R44-1(2060mil,807.04mil) on Top Layer [Top Overlay] to [Top Solder] clearance [0.389mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.495mil < 10mil) Between Arc (2160.012mil,818.63mil) on Top Overlay And Pad U9-16(2176.262mil,860mil) on Top Layer [Top Overlay] to [Top Solder] clearance [8.494mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.486mil < 10mil) Between Arc (2220.012mil,1681.37mil) on Top Overlay And Pad C90-1(2201.46mil,1695mil) on Top Layer [Top Overlay] to [Top Solder] clearance [6.486mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.486mil < 10mil) Between Arc (2220.012mil,1708.63mil) on Top Overlay And Pad C90-1(2201.46mil,1695mil) on Top Layer [Top Overlay] to [Top Solder] clearance [6.486mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (2.609mil < 10mil) Between Arc (2220.012mil,1716.37mil) on Top Overlay And Pad C90-1(2201.46mil,1695mil) on Top Layer [Top Overlay] to [Top Solder] clearance [2.609mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Arc (2618.552mil,531.371mil) on Bottom Overlay And Pad C73-2(2638.54mil,545mil) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.001mil < 10mil) Between Arc (2618.552mil,558.631mil) on Bottom Overlay And Pad C73-2(2638.54mil,545mil) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.001mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.486mil < 10mil) Between Arc (2619.988mil,531.37mil) on Bottom Overlay And Pad C73-2(2638.54mil,545mil) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [6.486mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.486mil < 10mil) Between Arc (2619.988mil,558.63mil) on Bottom Overlay And Pad C73-2(2638.54mil,545mil) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [6.486mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Arc (2619.988mil,561.37mil) on Bottom Overlay And Pad C73-2(2638.54mil,545mil) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Arc (2700.012mil,531.37mil) on Bottom Overlay And Pad R35-1(2717.961mil,540mil) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Arc (2768.341mil,556.997mil) on Bottom Overlay And Pad R34-1(2752.039mil,570mil) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Arc (2768.341mil,556.997mil) on Bottom Overlay And Pad R35-2(2752.041mil,540mil) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.627mil < 10mil) Between Arc (2768.341mil,584.257mil) on Bottom Overlay And Pad R34-1(2752.039mil,570mil) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.627mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.108mil < 10mil) Between Arc (2769.988mil,526.37mil) on Bottom Overlay And Pad R35-2(2752.041mil,540mil) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.108mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Arc (2769.988mil,553.63mil) on Bottom Overlay And Pad R34-1(2752.039mil,570mil) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.108mil < 10mil) Between Arc (2769.988mil,553.63mil) on Bottom Overlay And Pad R35-2(2752.041mil,540mil) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.108mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.358mil < 10mil) Between Arc (2780.012mil,1271.37mil) on Bottom Overlay And Pad C54-1(2805mil,1263.54mil) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [5.358mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.486mil < 10mil) Between Arc (2791.37mil,1244.988mil) on Bottom Overlay And Pad C54-1(2805mil,1263.54mil) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [6.486mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.486mil < 10mil) Between Arc (2818.63mil,1244.988mil) on Bottom Overlay And Pad C54-1(2805mil,1263.54mil) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [6.486mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.486mil < 10mil) Between Arc (2869.988mil,1713.63mil) on Top Overlay And Pad C106-2(2888.54mil,1700.001mil) on Top Layer [Top Overlay] to [Top Solder] clearance [6.486mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Arc (2869.988mil,1713.63mil) on Top Overlay And Pad C111-2(2888.54mil,1730.001mil) on Top Layer [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.486mil < 10mil) Between Arc (2869.988mil,1716.37mil) on Top Overlay And Pad C111-2(2888.54mil,1730.001mil) on Top Layer [Top Overlay] to [Top Solder] clearance [6.486mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.486mil < 10mil) Between Arc (2869.988mil,1743.63mil) on Top Overlay And Pad C111-2(2888.54mil,1730.001mil) on Top Layer [Top Overlay] to [Top Solder] clearance [6.486mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.319mil < 10mil) Between Arc (2910.012mil,1758.63mil) on Bottom Overlay And Pad R7-2(2892.041mil,1780mil) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [5.319mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.486mil < 10mil) Between Arc (3011.37mil,1789.988mil) on Top Overlay And Pad C99-1(3025mil,1808.54mil) on Top Layer [Top Overlay] to [Top Solder] clearance [6.486mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.486mil < 10mil) Between Arc (3011.37mil,1870.012mil) on Top Overlay And Pad C99-2(3025mil,1851.46mil) on Top Layer [Top Overlay] to [Top Solder] clearance [6.486mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.486mil < 10mil) Between Arc (3038.63mil,1789.988mil) on Top Overlay And Pad C99-1(3025mil,1808.54mil) on Top Layer [Top Overlay] to [Top Solder] clearance [6.486mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.486mil < 10mil) Between Arc (3038.63mil,1870.012mil) on Top Overlay And Pad C99-2(3025mil,1851.46mil) on Top Layer [Top Overlay] to [Top Solder] clearance [6.486mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.441mil < 10mil) Between Arc (3123.137mil,1324.031mil) on Top Overlay And Pad C21-1(3107.561mil,1339.998mil) on Top Layer [Top Overlay] to [Top Solder] clearance [5.441mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.003mil < 10mil) Between Arc (3123.137mil,1355.527mil) on Top Overlay And Pad C21-1(3107.561mil,1339.998mil) on Top Layer [Top Overlay] to [Top Solder] clearance [5.003mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Arc (3149.988mil,1001.37mil) on Top Overlay And Pad R14-1(3137.039mil,1015mil) on Top Layer [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.44mil < 10mil) Between Arc (3149.988mil,1001.37mil) on Top Overlay And Pad R17-1(3130mil,982.038mil) on Top Layer [Top Overlay] to [Top Solder] clearance [3.44mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Arc (3149.988mil,1028.63mil) on Top Overlay And Pad R14-1(3137.039mil,1015mil) on Top Layer [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.486mil < 10mil) Between Arc (3230.012mil,1001.37mil) on Top Overlay And Pad C20-2(3211.46mil,1015.001mil) on Top Layer [Top Overlay] to [Top Solder] clearance [6.486mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.486mil < 10mil) Between Arc (3230.012mil,1028.63mil) on Top Overlay And Pad C20-2(3211.46mil,1015.001mil) on Top Layer [Top Overlay] to [Top Solder] clearance [6.486mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.486mil < 10mil) Between Arc (3301.37mil,584.988mil) on Top Overlay And Pad C110-2(3315mil,603.54mil) on Top Layer [Top Overlay] to [Top Solder] clearance [6.486mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.486mil < 10mil) Between Arc (3328.63mil,584.988mil) on Top Overlay And Pad C110-2(3315mil,603.54mil) on Top Layer [Top Overlay] to [Top Solder] clearance [6.486mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.674mil < 10mil) Between Pad C106-2(2888.54mil,1700.001mil) on Top Layer And Track (2863.988mil,1716.371mil)(2863.988mil,1743.631mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.674mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad C106-2(2888.54mil,1700.001mil) on Top Layer And Track (2869.988mil,1710.371mil)(2901.094mil,1710.371mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad C106-2(2888.54mil,1700.001mil) on Top Layer And Track (2869.988mil,1719.631mil)(2901.094mil,1719.631mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad C110-2(3315mil,603.54mil) on Top Layer And Track (3295.37mil,584.988mil)(3295.37mil,616.094mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.999mil < 10mil) Between Pad C110-2(3315mil,603.54mil) on Top Layer And Track (3301.37mil,578.988mil)(3328.63mil,578.988mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.999mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.196mil < 10mil) Between Pad C110-2(3315mil,603.54mil) on Top Layer And Track (3332.826mil,605.37mil)(3332.826mil,644.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.196mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.196mil < 10mil) Between Pad C110-2(3315mil,603.54mil) on Top Layer And Track (3332.826mil,605.37mil)(3361.096mil,605.37mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.196mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad C110-2(3315mil,603.54mil) on Top Layer And Track (3334.63mil,584.988mil)(3334.63mil,616.094mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.369mil < 10mil) Between Pad C111-2(2888.54mil,1730.001mil) on Top Layer And Text "C106" (2871mil,1753mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.369mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.674mil < 10mil) Between Pad C111-2(2888.54mil,1730.001mil) on Top Layer And Track (2863.988mil,1686.371mil)(2863.988mil,1713.631mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.674mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.999mil < 10mil) Between Pad C111-2(2888.54mil,1730.001mil) on Top Layer And Track (2863.988mil,1716.371mil)(2863.988mil,1743.631mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.999mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad C111-2(2888.54mil,1730.001mil) on Top Layer And Track (2869.988mil,1710.371mil)(2901.094mil,1710.371mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad C111-2(2888.54mil,1730.001mil) on Top Layer And Track (2869.988mil,1719.631mil)(2901.094mil,1719.631mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad C111-2(2888.54mil,1730.001mil) on Top Layer And Track (2869.988mil,1749.631mil)(2901.094mil,1749.631mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad C20-2(3211.46mil,1015.001mil) on Top Layer And Text "C6" (3163mil,974mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad C20-2(3211.46mil,1015.001mil) on Top Layer And Text "D2" (3168mil,1030mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.987mil < 10mil) Between Pad C20-2(3211.46mil,1015.001mil) on Top Layer And Text "R1" (3233mil,970mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.987mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad C20-2(3211.46mil,1015.001mil) on Top Layer And Text "R6" (3128mil,970mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.371mil < 10mil) Between Pad C20-2(3211.46mil,1015.001mil) on Top Layer And Track (3161mil,997mil)(3199mil,997mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.371mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad C20-2(3211.46mil,1015.001mil) on Top Layer And Track (3198.906mil,1034.631mil)(3230.012mil,1034.631mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad C20-2(3211.46mil,1015.001mil) on Top Layer And Track (3198.906mil,995.371mil)(3230.012mil,995.371mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.371mil < 10mil) Between Pad C20-2(3211.46mil,1015.001mil) on Top Layer And Track (3199mil,969.228mil)(3199mil,997mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.371mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.999mil < 10mil) Between Pad C20-2(3211.46mil,1015.001mil) on Top Layer And Track (3236.012mil,1001.371mil)(3236.012mil,1028.631mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.999mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad C21-1(3107.561mil,1339.998mil) on Top Layer And Text "C12" (3089mil,1298mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad C21-1(3107.561mil,1339.998mil) on Top Layer And Text "L2" (3022mil,1347mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad C21-1(3107.561mil,1339.998mil) on Top Layer And Text "R18" (3038mil,1358mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad C21-1(3107.561mil,1339.998mil) on Top Layer And Text "R8" (3125mil,1268mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.449mil < 10mil) Between Pad C21-1(3107.561mil,1339.998mil) on Top Layer And Track (3091.639mil,1311.832mil)(3123.135mil,1311.832mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.449mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.008mil < 10mil) Between Pad C21-1(3107.561mil,1339.998mil) on Top Layer And Track (3091.639mil,1367.723mil)(3123.135mil,1367.723mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.008mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.024mil < 10mil) Between Pad C21-1(3107.561mil,1339.998mil) on Top Layer And Track (3135.333mil,1324.031mil)(3135.333mil,1355.524mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.024mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad C54-1(2805mil,1263.54mil) on Bottom Layer And Text "R30" (2947mil,1275mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (2.812mil < 10mil) Between Pad C54-1(2805mil,1263.54mil) on Bottom Layer And Track (2780.37mil,1242.175mil)(2819.63mil,1242.175mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [2.812mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad C54-1(2805mil,1263.54mil) on Bottom Layer And Track (2785.37mil,1244.988mil)(2785.37mil,1276.094mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.358mil < 10mil) Between Pad C54-1(2805mil,1263.54mil) on Bottom Layer And Track (2786.012mil,1271.37mil)(2786.012mil,1298.63mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [5.358mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.999mil < 10mil) Between Pad C54-1(2805mil,1263.54mil) on Bottom Layer And Track (2791.37mil,1238.988mil)(2818.63mil,1238.988mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [5.999mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.056mil < 10mil) Between Pad C54-1(2805mil,1263.54mil) on Bottom Layer And Track (2819.63mil,1213.907mil)(2819.63mil,1242.175mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [4.055mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad C54-1(2805mil,1263.54mil) on Bottom Layer And Track (2824.63mil,1244.988mil)(2824.63mil,1276.094mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.032mil < 10mil) Between Pad C73-2(2638.54mil,545mil) on Bottom Layer And Track (2587.446mil,525.372mil)(2618.552mil,525.372mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [7.032mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.035mil < 10mil) Between Pad C73-2(2638.54mil,545mil) on Bottom Layer And Track (2587.446mil,564.632mil)(2618.552mil,564.632mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [7.035mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.999mil < 10mil) Between Pad C73-2(2638.54mil,545mil) on Bottom Layer And Track (2613.988mil,531.37mil)(2613.988mil,558.63mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [5.999mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.673mil < 10mil) Between Pad C73-2(2638.54mil,545mil) on Bottom Layer And Track (2613.989mil,561.371mil)(2613.989mil,588.631mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [7.673mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad C73-2(2638.54mil,545mil) on Bottom Layer And Track (2619.988mil,525.37mil)(2651.094mil,525.37mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad C73-2(2638.54mil,545mil) on Bottom Layer And Track (2619.988mil,564.63mil)(2651.094mil,564.63mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad C73-2(2638.54mil,545mil) on Bottom Layer And Track (2619.989mil,555.371mil)(2651.095mil,555.371mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad C73-2(2638.54mil,545mil) on Bottom Layer And Track (2624.552mil,531.372mil)(2624.552mil,558.632mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad C90-1(2201.46mil,1695mil) on Top Layer And Track (2188.906mil,1675.37mil)(2220.012mil,1675.37mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.74mil < 10mil) Between Pad C90-1(2201.46mil,1695mil) on Top Layer And Track (2188.906mil,1710.37mil)(2220.012mil,1710.37mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.74mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad C90-1(2201.46mil,1695mil) on Top Layer And Track (2188.906mil,1714.63mil)(2220.012mil,1714.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.999mil < 10mil) Between Pad C90-1(2201.46mil,1695mil) on Top Layer And Track (2226.012mil,1681.37mil)(2226.012mil,1708.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.999mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad C99-1(3025mil,1808.54mil) on Top Layer And Text "C106" (2871mil,1753mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.315mil < 10mil) Between Pad C99-1(3025mil,1808.54mil) on Top Layer And Text "C111" (2871mil,1783mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.315mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.006mil < 10mil) Between Pad C99-1(3025mil,1808.54mil) on Top Layer And Text "R85" (2932mil,1720mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.006mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad C99-1(3025mil,1808.54mil) on Top Layer And Text "Y1" (2980mil,1773mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad C99-1(3025mil,1808.54mil) on Top Layer And Track (3005.37mil,1789.988mil)(3005.37mil,1821.094mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.999mil < 10mil) Between Pad C99-1(3025mil,1808.54mil) on Top Layer And Track (3011.37mil,1783.988mil)(3038.63mil,1783.988mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.999mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad C99-1(3025mil,1808.54mil) on Top Layer And Track (3044.63mil,1789.988mil)(3044.63mil,1821.094mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad C99-2(3025mil,1851.46mil) on Top Layer And Text "C111" (2871mil,1783mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad C99-2(3025mil,1851.46mil) on Top Layer And Text "Y1" (2980mil,1773mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad C99-2(3025mil,1851.46mil) on Top Layer And Track (3005.37mil,1838.906mil)(3005.37mil,1870.012mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.999mil < 10mil) Between Pad C99-2(3025mil,1851.46mil) on Top Layer And Track (3011.37mil,1876.012mil)(3038.63mil,1876.012mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.999mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad C99-2(3025mil,1851.46mil) on Top Layer And Track (3044.63mil,1838.906mil)(3044.63mil,1870.012mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad D2-2(3180mil,920mil) on Top Layer And Text "C29" (3118mil,885mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad D2-2(3180mil,920mil) on Top Layer And Text "C30" (3148mil,909mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad D2-2(3180mil,920mil) on Top Layer And Text "LDO2" (2994mil,883mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.189mil < 10mil) Between Pad D2-2(3180mil,920mil) on Top Layer And Track (3161mil,911mil)(3161mil,926.228mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.189mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.272mil < 10mil) Between Pad D2-2(3180mil,920mil) on Top Layer And Track (3161mil,911mil)(3169mil,903mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.271mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.189mil < 10mil) Between Pad D2-2(3180mil,920mil) on Top Layer And Track (3165mil,942mil)(3195mil,942mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.189mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (2.189mil < 10mil) Between Pad D2-2(3180mil,920mil) on Top Layer And Track (3169mil,903mil)(3190mil,903mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [2.189mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.564mil < 10mil) Between Pad D2-2(3180mil,920mil) on Top Layer And Track (3190mil,903mil)(3198mil,911mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.564mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.56mil < 10mil) Between Pad D2-2(3180mil,920mil) on Top Layer And Track (3195.37mil,908.906mil)(3195.37mil,937.176mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.56mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.486mil < 10mil) Between Pad D2-2(3180mil,920mil) on Top Layer And Track (3195.37mil,937.176mil)(3234.631mil,937.176mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.486mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.189mil < 10mil) Between Pad D2-2(3180mil,920mil) on Top Layer And Track (3198mil,911mil)(3198mil,926.228mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.189mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad LED1-1(3195mil,1437mil) on Top Layer And Text "R13" (3028mil,1420mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad LED1-1(3195mil,1437mil) on Top Layer And Text "R18" (3038mil,1358mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.63mil < 10mil) Between Pad LED1-1(3195mil,1437mil) on Top Layer And Track (3153.905mil,1410.37mil)(3182.175mil,1410.37mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.63mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad LED1-1(3195mil,1437mil) on Top Layer And Track (3153.905mil,1449.63mil)(3182.175mil,1449.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (2.064mil < 10mil) Between Pad LED1-1(3195mil,1437mil) on Top Layer And Track (3174.936mil,1422mil)(3174.936mil,1458mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [2.064mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3mil < 10mil) Between Pad LED1-1(3195mil,1437mil) on Top Layer And Track (3174.936mil,1458mil)(3214.936mil,1458mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad LED1-1(3195mil,1437mil) on Top Layer And Track (3182.175mil,1410.37mil)(3182.175mil,1449.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5mil < 10mil) Between Pad LED1-1(3195mil,1437mil) on Top Layer And Track (3183mil,1415mil)(3193.5mil,1404.5mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5mil < 10mil) Between Pad LED1-1(3195mil,1437mil) on Top Layer And Track (3183mil,1415mil)(3204mil,1415mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5mil < 10mil) Between Pad LED1-1(3195mil,1437mil) on Top Layer And Track (3193.5mil,1404.5mil)(3204mil,1415mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.936mil < 10mil) Between Pad LED1-1(3195mil,1437mil) on Top Layer And Track (3214.936mil,1422mil)(3214.936mil,1458mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.936mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.826mil < 10mil) Between Pad R14-1(3137.039mil,1015mil) on Top Layer And Text "C6" (3163mil,974mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.826mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad R14-1(3137.039mil,1015mil) on Top Layer And Text "R6" (3128mil,970mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad R14-1(3137.039mil,1015mil) on Top Layer And Track (3110.37mil,1002.174mil)(3149.63mil,1002.174mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad R14-1(3137.039mil,1015mil) on Top Layer And Track (3128.905mil,1034.63mil)(3157.175mil,1034.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad R14-1(3137.039mil,1015mil) on Top Layer And Track (3128.905mil,995.37mil)(3157.175mil,995.37mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad R14-1(3137.039mil,1015mil) on Top Layer And Track (3143.988mil,1001.371mil)(3143.988mil,1028.631mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad R14-1(3137.039mil,1015mil) on Top Layer And Track (3149.63mil,973.904mil)(3149.63mil,1002.174mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.182mil < 10mil) Between Pad R14-1(3137.039mil,1015mil) on Top Layer And Track (3149.988mil,1034.631mil)(3181.094mil,1034.631mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.182mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.18mil < 10mil) Between Pad R14-1(3137.039mil,1015mil) on Top Layer And Track (3149.988mil,995.371mil)(3181.094mil,995.371mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.18mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.001mil < 10mil) Between Pad R14-1(3137.039mil,1015mil) on Top Layer And Track (3157.175mil,995.37mil)(3157.175mil,1034.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.001mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.37mil < 10mil) Between Pad R14-2(3102.959mil,1015mil) on Top Layer And Text "R17" (2993mil,1035mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.37mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.906mil < 10mil) Between Pad R14-2(3102.959mil,1015mil) on Top Layer And Text "R6" (3128mil,970mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.906mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad R14-2(3102.959mil,1015mil) on Top Layer And Track (3082.825mil,1034.63mil)(3111.093mil,1034.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.999mil < 10mil) Between Pad R14-2(3102.959mil,1015mil) on Top Layer And Track (3082.825mil,995.37mil)(3082.825mil,1034.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.999mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad R14-2(3102.959mil,1015mil) on Top Layer And Track (3082.825mil,995.37mil)(3111.093mil,995.37mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad R14-2(3102.959mil,1015mil) on Top Layer And Track (3110.37mil,1002.174mil)(3149.63mil,1002.174mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad R14-2(3102.959mil,1015mil) on Top Layer And Track (3110.37mil,973.904mil)(3110.37mil,1002.174mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.64mil < 10mil) Between Pad R17-1(3130mil,982.038mil) on Top Layer And Text "C30" (3148mil,909mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.64mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad R17-1(3130mil,982.038mil) on Top Layer And Text "R6" (3128mil,970mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.564mil < 10mil) Between Pad R17-1(3130mil,982.038mil) on Top Layer And Track (3082.825mil,995.37mil)(3111.093mil,995.37mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.564mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.001mil < 10mil) Between Pad R17-1(3130mil,982.038mil) on Top Layer And Track (3110.37mil,1002.174mil)(3149.63mil,1002.174mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.001mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad R17-1(3130mil,982.038mil) on Top Layer And Track (3110.37mil,973.904mil)(3110.37mil,1002.174mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad R17-1(3130mil,982.038mil) on Top Layer And Track (3128.905mil,995.37mil)(3157.175mil,995.37mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.859mil < 10mil) Between Pad R17-1(3130mil,982.038mil) on Top Layer And Track (3143.988mil,1001.371mil)(3143.988mil,1028.631mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.859mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad R17-1(3130mil,982.038mil) on Top Layer And Track (3149.63mil,973.904mil)(3149.63mil,1002.174mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.612mil < 10mil) Between Pad R17-1(3130mil,982.038mil) on Top Layer And Track (3149.988mil,995.371mil)(3181.094mil,995.371mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.613mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad R23-1(3340mil,1387.961mil) on Top Layer And Text "Q5" (3277mil,1351mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad R23-1(3340mil,1387.961mil) on Top Layer And Track (3320.37mil,1367.825mil)(3320.37mil,1396.095mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.001mil < 10mil) Between Pad R23-1(3340mil,1387.961mil) on Top Layer And Track (3320.37mil,1367.825mil)(3359.63mil,1367.825mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.001mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad R23-1(3340mil,1387.961mil) on Top Layer And Track (3359.63mil,1367.825mil)(3359.63mil,1396.095mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.37mil < 10mil) Between Pad R34-1(2752.039mil,570mil) on Bottom Layer And Text "C67" (2849mil,593mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [7.37mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.689mil < 10mil) Between Pad R34-1(2752.039mil,570mil) on Bottom Layer And Text "R35" (2865mil,593mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [8.689mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad R34-1(2752.039mil,570mil) on Bottom Layer And Track (2743.905mil,550.37mil)(2772.175mil,550.37mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad R34-1(2752.039mil,570mil) on Bottom Layer And Track (2743.905mil,589.63mil)(2772.175mil,589.63mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad R34-1(2752.039mil,570mil) on Bottom Layer And Track (2743.907mil,559.63mil)(2772.175mil,559.63mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad R34-1(2752.039mil,570mil) on Bottom Layer And Track (2762.342mil,556.998mil)(2762.342mil,584.258mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (2.797mil < 10mil) Between Pad R34-1(2752.039mil,570mil) on Bottom Layer And Track (2763.988mil,526.37mil)(2763.988mil,553.63mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [2.797mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.839mil < 10mil) Between Pad R34-1(2752.039mil,570mil) on Bottom Layer And Track (2768.342mil,550.998mil)(2799.448mil,550.998mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [6.839mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.927mil < 10mil) Between Pad R34-1(2752.039mil,570mil) on Bottom Layer And Track (2768.342mil,590.258mil)(2799.448mil,590.258mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [7.927mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.814mil < 10mil) Between Pad R34-1(2752.039mil,570mil) on Bottom Layer And Track (2769.988mil,559.63mil)(2801.094mil,559.63mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [3.814mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.001mil < 10mil) Between Pad R34-1(2752.039mil,570mil) on Bottom Layer And Track (2772.175mil,520.37mil)(2772.175mil,559.63mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [6.001mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.001mil < 10mil) Between Pad R34-1(2752.039mil,570mil) on Bottom Layer And Track (2772.175mil,550.37mil)(2772.175mil,589.63mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [6.001mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.901mil < 10mil) Between Pad R35-1(2717.961mil,540mil) on Bottom Layer And Track (2668.906mil,525.37mil)(2700.012mil,525.37mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [4.901mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.001mil < 10mil) Between Pad R35-1(2717.961mil,540mil) on Bottom Layer And Track (2697.825mil,520.37mil)(2697.825mil,559.63mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [6.001mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad R35-1(2717.961mil,540mil) on Bottom Layer And Track (2697.825mil,520.37mil)(2726.095mil,520.37mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.001mil < 10mil) Between Pad R35-1(2717.961mil,540mil) on Bottom Layer And Track (2697.825mil,550.37mil)(2697.825mil,589.63mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [6.001mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad R35-1(2717.961mil,540mil) on Bottom Layer And Track (2697.825mil,550.37mil)(2726.093mil,550.37mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad R35-1(2717.961mil,540mil) on Bottom Layer And Track (2706.012mil,531.37mil)(2706.012mil,558.63mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.772mil < 10mil) Between Pad R35-1(2717.961mil,540mil) on Bottom Layer And Track (2706.013mil,561.371mil)(2706.013mil,588.631mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [7.772mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad R35-2(2752.041mil,540mil) on Bottom Layer And Track (2743.905mil,550.37mil)(2772.175mil,550.37mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad R35-2(2752.041mil,540mil) on Bottom Layer And Track (2743.907mil,520.37mil)(2772.175mil,520.37mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad R35-2(2752.041mil,540mil) on Bottom Layer And Track (2743.907mil,559.63mil)(2772.175mil,559.63mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.368mil < 10mil) Between Pad R35-2(2752.041mil,540mil) on Bottom Layer And Track (2762.342mil,556.998mil)(2762.342mil,584.258mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [3.368mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad R35-2(2752.041mil,540mil) on Bottom Layer And Track (2763.988mil,526.37mil)(2763.988mil,553.63mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (2.179mil < 10mil) Between Pad R35-2(2752.041mil,540mil) on Bottom Layer And Track (2768.342mil,550.998mil)(2799.448mil,550.998mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [2.179mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.287mil < 10mil) Between Pad R35-2(2752.041mil,540mil) on Bottom Layer And Track (2769.988mil,520.37mil)(2801.094mil,520.37mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [8.287mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.287mil < 10mil) Between Pad R35-2(2752.041mil,540mil) on Bottom Layer And Track (2769.988mil,559.63mil)(2801.094mil,559.63mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [8.287mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.999mil < 10mil) Between Pad R35-2(2752.041mil,540mil) on Bottom Layer And Track (2772.175mil,520.37mil)(2772.175mil,559.63mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [5.999mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.999mil < 10mil) Between Pad R35-2(2752.041mil,540mil) on Bottom Layer And Track (2772.175mil,550.37mil)(2772.175mil,589.63mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [5.999mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.171mil < 10mil) Between Pad R44-1(2060mil,807.04mil) on Top Layer And Track (2005.37mil,827.174mil)(2044.63mil,827.174mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.171mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad R44-1(2060mil,807.04mil) on Top Layer And Track (2040.37mil,798.906mil)(2040.37mil,827.174mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.999mil < 10mil) Between Pad R44-1(2060mil,807.04mil) on Top Layer And Track (2040.37mil,827.174mil)(2079.63mil,827.174mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.999mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.74mil < 10mil) Between Pad R44-1(2060mil,807.04mil) on Top Layer And Track (2044.63mil,798.904mil)(2044.63mil,827.174mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.74mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.013mil < 10mil) Between Pad R44-1(2060mil,807.04mil) on Top Layer And Track (2073.988mil,761.37mil)(2073.988mil,788.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.013mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.358mil < 10mil) Between Pad R44-1(2060mil,807.04mil) on Top Layer And Track (2073.988mil,791.37mil)(2073.988mil,818.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.358mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad R44-1(2060mil,807.04mil) on Top Layer And Track (2079.63mil,798.906mil)(2079.63mil,827.174mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.444mil < 10mil) Between Pad R44-1(2060mil,807.04mil) on Top Layer And Track (2079.988mil,794.63mil)(2111.094mil,794.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.444mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.368mil < 10mil) Between Pad R44-1(2060mil,807.04mil) on Top Layer And Track (2079.988mil,824.63mil)(2111.094mil,824.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.368mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad R6-2(3215.001mil,882.96mil) on Top Layer And Text "C29" (3118mil,885mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.905mil < 10mil) Between Pad R6-2(3215.001mil,882.96mil) on Top Layer And Text "C30" (3148mil,909mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.905mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad R6-2(3215.001mil,882.96mil) on Top Layer And Text "LDO2" (2994mil,883mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad R6-2(3215.001mil,882.96mil) on Top Layer And Track (3195.37mil,862.826mil)(3195.37mil,891.094mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.999mil < 10mil) Between Pad R6-2(3215.001mil,882.96mil) on Top Layer And Track (3195.37mil,862.826mil)(3234.631mil,862.826mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.999mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.739mil < 10mil) Between Pad R6-2(3215.001mil,882.96mil) on Top Layer And Track (3230.369mil,854.989mil)(3230.369mil,886.095mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.739mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.896mil < 10mil) Between Pad R6-2(3215.001mil,882.96mil) on Top Layer And Track (3230.369mil,903.907mil)(3230.369mil,935.013mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.896mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad R6-2(3215.001mil,882.96mil) on Top Layer And Track (3234.631mil,862.826mil)(3234.631mil,891.094mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad R71-2(1742.041mil,1290mil) on Top Layer And Text "R67" (1595mil,1218mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad R71-2(1742.041mil,1290mil) on Top Layer And Text "R68" (1595mil,1253mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad R71-2(1742.041mil,1290mil) on Top Layer And Text "R69" (1595mil,1283mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.37mil < 10mil) Between Pad R71-2(1742.041mil,1290mil) on Top Layer And Text "R70" (1595mil,1313mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.37mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.649mil < 10mil) Between Pad R71-2(1742.041mil,1290mil) on Top Layer And Track (1757.825mil,1300.37mil)(1757.825mil,1339.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.649mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.649mil < 10mil) Between Pad R71-2(1742.041mil,1290mil) on Top Layer And Track (1757.825mil,1300.37mil)(1786.093mil,1300.37mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.649mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.389mil < 10mil) Between Pad R7-2(2892.041mil,1780mil) on Bottom Layer And Text "C104" (2897mil,1699mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [5.389mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (2.37mil < 10mil) Between Pad R7-2(2892.041mil,1780mil) on Bottom Layer And Text "C11" (2909mil,1798mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [2.37mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad R7-2(2892.041mil,1780mil) on Bottom Layer And Text "C34" (3008mil,1750mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.692mil < 10mil) Between Pad R7-2(2892.041mil,1780mil) on Bottom Layer And Text "C35" (2883mil,1705mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [3.692mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.74mil < 10mil) Between Pad R7-2(2892.041mil,1780mil) on Bottom Layer And Track (2878.906mil,1764.63mil)(2910.012mil,1764.63mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [1.74mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad R7-2(2892.041mil,1780mil) on Bottom Layer And Track (2883.907mil,1760.37mil)(2912.175mil,1760.37mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad R7-2(2892.041mil,1780mil) on Bottom Layer And Track (2883.907mil,1799.63mil)(2912.175mil,1799.63mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.999mil < 10mil) Between Pad R7-2(2892.041mil,1780mil) on Bottom Layer And Track (2912.175mil,1760.37mil)(2912.175mil,1799.63mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [5.999mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.484mil < 10mil) Between Pad R72-2(1777.959mil,1320mil) on Top Layer And Text "R68" (1595mil,1253mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.484mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.876mil < 10mil) Between Pad R72-2(1777.959mil,1320mil) on Top Layer And Text "R69" (1595mil,1283mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.876mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.876mil < 10mil) Between Pad R72-2(1777.959mil,1320mil) on Top Layer And Text "R70" (1595mil,1313mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.876mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.13mil < 10mil) Between Pad R72-2(1777.959mil,1320mil) on Top Layer And Track (1733.905mil,1300.37mil)(1762.175mil,1300.37mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.13mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.639mil < 10mil) Between Pad R72-2(1777.959mil,1320mil) on Top Layer And Track (1733.905mil,1335.37mil)(1762.175mil,1335.37mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.639mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.13mil < 10mil) Between Pad R72-2(1777.959mil,1320mil) on Top Layer And Track (1733.905mil,1339.63mil)(1762.175mil,1339.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.13mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.649mil < 10mil) Between Pad R72-2(1777.959mil,1320mil) on Top Layer And Track (1733.907mil,1309.63mil)(1762.175mil,1309.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.649mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.999mil < 10mil) Between Pad R72-2(1777.959mil,1320mil) on Top Layer And Track (1757.825mil,1300.37mil)(1757.825mil,1339.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.999mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad R72-2(1777.959mil,1320mil) on Top Layer And Track (1757.825mil,1300.37mil)(1786.093mil,1300.37mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.171mil < 10mil) Between Pad R72-2(1777.959mil,1320mil) on Top Layer And Track (1757.825mil,1335.37mil)(1757.825mil,1374.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.171mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.74mil < 10mil) Between Pad R72-2(1777.959mil,1320mil) on Top Layer And Track (1757.825mil,1335.37mil)(1786.093mil,1335.37mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.74mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6mil < 10mil) Between Pad R72-2(1777.959mil,1320mil) on Top Layer And Track (1757.825mil,1339.63mil)(1786.093mil,1339.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.649mil < 10mil) Between Pad R72-2(1777.959mil,1320mil) on Top Layer And Track (1762.175mil,1270.37mil)(1762.175mil,1309.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.649mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.649mil < 10mil) Between Pad R72-2(1777.959mil,1320mil) on Top Layer And Track (1762.175mil,1300.37mil)(1762.175mil,1339.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.649mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.639mil < 10mil) Between Pad R72-2(1777.959mil,1320mil) on Top Layer And Track (1762.175mil,1335.37mil)(1762.175mil,1374.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.639mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.556mil < 10mil) Between Pad U7-H7(2694.344mil,690.628mil) on Top Layer And Text "R32" (2562mil,613mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.556mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad U7-K9(2631.354mil,627.638mil) on Top Layer And Text "R32" (2562mil,613mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad U9-10(2058.152mil,860mil) on Top Layer And Text "R42" (1967mil,860mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad U9-10(2058.152mil,860mil) on Top Layer And Text "R43" (2012mil,860mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad U9-10(2058.152mil,860mil) on Top Layer And Text "R44" (2047mil,860mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.587mil < 10mil) Between Pad U9-10(2058.152mil,860mil) on Top Layer And Track (2005.37mil,827.174mil)(2044.63mil,827.174mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.587mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (2.267mil < 10mil) Between Pad U9-10(2058.152mil,860mil) on Top Layer And Track (2040.37mil,827.174mil)(2079.63mil,827.174mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [2.267mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.587mil < 10mil) Between Pad U9-10(2058.152mil,860mil) on Top Layer And Track (2044.63mil,798.904mil)(2044.63mil,827.174mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.587mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad U9-16(2176.262mil,860mil) on Top Layer And Text "C92" (2081mil,858mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad U9-16(2176.262mil,860mil) on Top Layer And Text "C93" (2081mil,828mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad U9-16(2176.262mil,860mil) on Top Layer And Text "R40" (2182mil,858mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad U9-16(2176.262mil,860mil) on Top Layer And Text "R43" (2012mil,860mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad U9-16(2176.262mil,860mil) on Top Layer And Text "R44" (2047mil,860mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.307mil < 10mil) Between Pad U9-16(2176.262mil,860mil) on Top Layer And Track (2175.37mil,796.866mil)(2175.37mil,825.134mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.307mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.307mil < 10mil) Between Pad U9-16(2176.262mil,860mil) on Top Layer And Track (2175.37mil,825.134mil)(2214.63mil,825.134mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.307mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad U9-19(2235.316mil,860mil) on Top Layer And Text "C92" (2081mil,858mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad U9-19(2235.316mil,860mil) on Top Layer And Text "C93" (2081mil,828mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad U9-19(2235.316mil,860mil) on Top Layer And Text "R37" (2222mil,860mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad U9-19(2235.316mil,860mil) on Top Layer And Text "R40" (2182mil,858mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (2.266mil < 10mil) Between Pad U9-19(2235.316mil,860mil) on Top Layer And Track (2215.37mil,827.175mil)(2254.63mil,827.175mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [2.266mil]
+Rule Violations :248
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R57" (1600mil,998mil) on Top Overlay And Track (1687.827mil,1015.37mil)(1687.827mil,1054.63mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+Rule Violations :1
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('D8-D15'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InDifferentialPairClass('100ohm'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (All)
+   Violation between Matched Net Lengths: Between Net 5V And Net DCDC_3V3_PG Length:0mil is not within 50mil tolerance of Length:4602.176mil (4552.176mil short) 
+   Violation between Matched Net Lengths: Between Net BOOT_MODE0 And Net DCDC_3V3_PG Length:834.892mil is not within 50mil tolerance of Length:4602.176mil (3717.284mil short) 
+   Violation between Matched Net Lengths: Between Net BOOT_MODE1 And Net DCDC_3V3_PG Length:811.842mil is not within 50mil tolerance of Length:4602.176mil (3740.334mil short) 
+   Violation between Matched Net Lengths: Between Net CAN1_RX And Net DCDC_3V3_PG Length:1315.526mil is not within 50mil tolerance of Length:4602.176mil (3236.65mil short) 
+   Violation between Matched Net Lengths: Between Net CAN1_TX And Net DCDC_3V3_PG Length:1105.918mil is not within 50mil tolerance of Length:4602.176mil (3446.258mil short) 
+   Violation between Matched Net Lengths: Between Net CAN2_RX And Net DCDC_3V3_PG Length:1330.392mil is not within 50mil tolerance of Length:4602.176mil (3221.784mil short) 
+   Violation between Matched Net Lengths: Between Net CAN2_TX And Net DCDC_3V3_PG Length:1196.985mil is not within 50mil tolerance of Length:4602.176mil (3355.191mil short) 
+   Violation between Matched Net Lengths: Between Net CCM_CLK1_N And Net DCDC_3V3_PG Length:289.461mil is not within 50mil tolerance of Length:4602.176mil (4262.714mil short) 
+   Violation between Matched Net Lengths: Between Net CCM_CLK1_P And Net DCDC_3V3_PG Length:247.928mil is not within 50mil tolerance of Length:4602.176mil (4304.247mil short) 
+   Violation between Matched Net Lengths: Between Net CSI_DATA0 And Net DCDC_3V3_PG Length:1193.937mil is not within 50mil tolerance of Length:4602.176mil (3358.239mil short) 
+   Violation between Matched Net Lengths: Between Net CSI_DATA1 And Net DCDC_3V3_PG Length:1240.958mil is not within 50mil tolerance of Length:4602.176mil (3311.218mil short) 
+   Violation between Matched Net Lengths: Between Net CSI_DATA2 And Net DCDC_3V3_PG Length:1203.956mil is not within 50mil tolerance of Length:4602.176mil (3348.219mil short) 
+   Violation between Matched Net Lengths: Between Net CSI_DATA3 And Net DCDC_3V3_PG Length:1215.643mil is not within 50mil tolerance of Length:4602.176mil (3336.533mil short) 
+   Violation between Matched Net Lengths: Between Net CSI_DATA4 And Net DCDC_3V3_PG Length:1209.505mil is not within 50mil tolerance of Length:4602.176mil (3342.67mil short) 
+   Violation between Matched Net Lengths: Between Net CSI_DATA5 And Net DCDC_3V3_PG Length:1208.975mil is not within 50mil tolerance of Length:4602.176mil (3343.201mil short) 
+   Violation between Matched Net Lengths: Between Net CSI_DATA6 And Net DCDC_3V3_PG Length:1195.636mil is not within 50mil tolerance of Length:4602.176mil (3356.54mil short) 
+   Violation between Matched Net Lengths: Between Net CSI_DATA7 And Net DCDC_3V3_PG Length:1204.72mil is not within 50mil tolerance of Length:4602.176mil (3347.456mil short) 
+   Violation between Matched Net Lengths: Between Net CSI_HSYNC And Net DCDC_3V3_PG Length:1237.39mil is not within 50mil tolerance of Length:4602.176mil (3314.786mil short) 
+   Violation between Matched Net Lengths: Between Net CSI_MCLK And Net DCDC_3V3_PG Length:1205.955mil is not within 50mil tolerance of Length:4602.176mil (3346.22mil short) 
+   Violation between Matched Net Lengths: Between Net CSI_PIXCLK And Net DCDC_3V3_PG Length:1226.608mil is not within 50mil tolerance of Length:4602.176mil (3325.568mil short) 
+   Violation between Matched Net Lengths: Between Net CSI_VSYNC And Net DCDC_3V3_PG Length:1201.023mil is not within 50mil tolerance of Length:4602.176mil (3351.152mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DISCHG_EN Length:3956.921mil is not within 50mil tolerance of Length:4602.176mil (595.254mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_1V35 Length:0mil is not within 50mil tolerance of Length:4602.176mil (4552.176mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_ADDR0 Length:911.72mil is not within 50mil tolerance of Length:4602.176mil (3640.455mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_ADDR1 Length:913.499mil is not within 50mil tolerance of Length:4602.176mil (3638.677mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_ADDR10 Length:909.395mil is not within 50mil tolerance of Length:4602.176mil (3642.78mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_ADDR11 Length:955.674mil is not within 50mil tolerance of Length:4602.176mil (3596.501mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_ADDR12 Length:913.776mil is not within 50mil tolerance of Length:4602.176mil (3638.4mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_ADDR13 Length:892.168mil is not within 50mil tolerance of Length:4602.176mil (3660.007mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_ADDR14 Length:947.969mil is not within 50mil tolerance of Length:4602.176mil (3604.206mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_ADDR15 Length:944.24mil is not within 50mil tolerance of Length:4602.176mil (3607.936mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_ADDR2 Length:894.583mil is not within 50mil tolerance of Length:4602.176mil (3657.593mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_ADDR3 Length:867.309mil is not within 50mil tolerance of Length:4602.176mil (3684.867mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_ADDR4 Length:908.292mil is not within 50mil tolerance of Length:4602.176mil (3643.884mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_ADDR5 Length:919.63mil is not within 50mil tolerance of Length:4602.176mil (3632.546mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_ADDR6 Length:879.662mil is not within 50mil tolerance of Length:4602.176mil (3672.513mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_ADDR7 Length:915.133mil is not within 50mil tolerance of Length:4602.176mil (3637.043mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_ADDR8 Length:916.696mil is not within 50mil tolerance of Length:4602.176mil (3635.48mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_ADDR9 Length:874.342mil is not within 50mil tolerance of Length:4602.176mil (3677.834mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_CAS Length:989.741mil is not within 50mil tolerance of Length:4602.176mil (3562.435mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_CS0 Length:905.834mil is not within 50mil tolerance of Length:4602.176mil (3646.341mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_CS1 Length:919.036mil is not within 50mil tolerance of Length:4602.176mil (3633.14mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_DATA0 Length:1355.859mil is not within 50mil tolerance of Length:4602.176mil (3196.317mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_DATA1 Length:1321.005mil is not within 50mil tolerance of Length:4602.176mil (3231.17mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_DATA10 Length:1074.136mil is not within 50mil tolerance of Length:4602.176mil (3478.04mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_DATA11 Length:1094.318mil is not within 50mil tolerance of Length:4602.176mil (3457.858mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_DATA12 Length:1078mil is not within 50mil tolerance of Length:4602.176mil (3474.176mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_DATA13 Length:985.725mil is not within 50mil tolerance of Length:4602.176mil (3566.45mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_DATA14 Length:1074.295mil is not within 50mil tolerance of Length:4602.176mil (3477.88mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_DATA15 Length:1050.787mil is not within 50mil tolerance of Length:4602.176mil (3501.388mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_DATA2 Length:1317.999mil is not within 50mil tolerance of Length:4602.176mil (3234.177mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_DATA3 Length:1304.266mil is not within 50mil tolerance of Length:4602.176mil (3247.909mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_DATA4 Length:1317.857mil is not within 50mil tolerance of Length:4602.176mil (3234.319mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_DATA5 Length:1320.93mil is not within 50mil tolerance of Length:4602.176mil (3231.246mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_DATA6 Length:1310.408mil is not within 50mil tolerance of Length:4602.176mil (3241.767mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_DATA7 Length:1316.792mil is not within 50mil tolerance of Length:4602.176mil (3235.384mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_DATA8 Length:924.51mil is not within 50mil tolerance of Length:4602.176mil (3627.666mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_DATA9 Length:767.731mil is not within 50mil tolerance of Length:4602.176mil (3784.444mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_DQM0 Length:1303.073mil is not within 50mil tolerance of Length:4602.176mil (3249.102mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_DQM1 Length:1077.999mil is not within 50mil tolerance of Length:4602.176mil (3474.176mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_ODT0 Length:1014.851mil is not within 50mil tolerance of Length:4602.176mil (3537.324mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_ODT1 Length:904.859mil is not within 50mil tolerance of Length:4602.176mil (3647.316mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_RAS Length:992.821mil is not within 50mil tolerance of Length:4602.176mil (3559.354mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_RESET Length:888.313mil is not within 50mil tolerance of Length:4602.176mil (3663.863mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_SDBA0 Length:905.181mil is not within 50mil tolerance of Length:4602.176mil (3646.995mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_SDBA1 Length:884.366mil is not within 50mil tolerance of Length:4602.176mil (3667.809mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_SDBA2 Length:866.218mil is not within 50mil tolerance of Length:4602.176mil (3685.957mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_SDCKE0 Length:1104.939mil is not within 50mil tolerance of Length:4602.176mil (3447.236mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_SDCKE1 Length:1078.666mil is not within 50mil tolerance of Length:4602.176mil (3473.51mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_SDCLK_N Length:959.21mil is not within 50mil tolerance of Length:4602.176mil (3592.965mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_SDCLK_P Length:943.747mil is not within 50mil tolerance of Length:4602.176mil (3608.428mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_SDQS0_N Length:1318.791mil is not within 50mil tolerance of Length:4602.176mil (3233.385mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_SDQS0_P Length:1245.752mil is not within 50mil tolerance of Length:4602.176mil (3306.424mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_SDQS1_N Length:1075.644mil is not within 50mil tolerance of Length:4602.176mil (3476.531mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_SDQS1_P Length:1074.207mil is not within 50mil tolerance of Length:4602.176mil (3477.968mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_VREF Length:753.85mil is not within 50mil tolerance of Length:4602.176mil (3798.326mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net DRAM_WE Length:873.762mil is not within 50mil tolerance of Length:4602.176mil (3678.414mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net ECSPI4_MISO Length:1218.503mil is not within 50mil tolerance of Length:4602.176mil (3333.673mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net ECSPI4_MOSI Length:983.015mil is not within 50mil tolerance of Length:4602.176mil (3569.161mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net ECSPI4_SCLK Length:1254.918mil is not within 50mil tolerance of Length:4602.176mil (3297.257mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net ECSPI4_SS Length:1127.215mil is not within 50mil tolerance of Length:4602.176mil (3424.961mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net ENET_MDC Length:1233.929mil is not within 50mil tolerance of Length:4602.176mil (3318.247mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net ENET_MDIO Length:1295.73mil is not within 50mil tolerance of Length:4602.176mil (3256.446mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net ENET1_RX_DATA0 Length:1052.039mil is not within 50mil tolerance of Length:4602.176mil (3500.137mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net ENET1_RX_DATA1 Length:1166.247mil is not within 50mil tolerance of Length:4602.176mil (3385.928mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net ENET1_RX_EN Length:1209.349mil is not within 50mil tolerance of Length:4602.176mil (3342.827mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net ENET1_RX_ER Length:1143.705mil is not within 50mil tolerance of Length:4602.176mil (3408.471mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net ENET1_TX_CLK Length:932.12mil is not within 50mil tolerance of Length:4602.176mil (3620.056mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net ENET1_TX_DATA0 Length:1406.146mil is not within 50mil tolerance of Length:4602.176mil (3146.03mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net ENET1_TX_DATA1 Length:1341.049mil is not within 50mil tolerance of Length:4602.176mil (3211.126mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net ENET1_TX_EN Length:1215.297mil is not within 50mil tolerance of Length:4602.176mil (3336.879mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net ENET2_RX_DATA0 Length:1327.473mil is not within 50mil tolerance of Length:4602.176mil (3224.703mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net ENET2_RX_DATA1 Length:1336.368mil is not within 50mil tolerance of Length:4602.176mil (3215.807mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net ENET2_RX_EN Length:1017.226mil is not within 50mil tolerance of Length:4602.176mil (3534.949mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net ENET2_TX_DATA0 Length:1260.02mil is not within 50mil tolerance of Length:4602.176mil (3292.156mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net GND Length:0mil is not within 50mil tolerance of Length:4602.176mil (4552.176mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net GPIO0 Length:1504.673mil is not within 50mil tolerance of Length:4602.176mil (3047.503mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net GPIO1 Length:1444.224mil is not within 50mil tolerance of Length:4602.176mil (3107.952mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net GPIO2 Length:1232.05mil is not within 50mil tolerance of Length:4602.176mil (3320.125mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net GPIO3 Length:1421.637mil is not within 50mil tolerance of Length:4602.176mil (3130.538mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net GPIO4 Length:1069.473mil is not within 50mil tolerance of Length:4602.176mil (3482.702mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net GPIO5 Length:2147.282mil is not within 50mil tolerance of Length:4602.176mil (2404.894mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net GPIO8 Length:936.943mil is not within 50mil tolerance of Length:4602.176mil (3615.233mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net GPIO9 Length:1091.076mil is not within 50mil tolerance of Length:4602.176mil (3461.099mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net HIGH_CAP Length:476.92mil is not within 50mil tolerance of Length:4602.176mil (4075.256mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net HIGH_IN Length:0mil is not within 50mil tolerance of Length:4602.176mil (4552.176mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net I2C1_SCL Length:1026.42mil is not within 50mil tolerance of Length:4602.176mil (3525.756mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net I2C1_SDA Length:1154.638mil is not within 50mil tolerance of Length:4602.176mil (3397.538mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net I2C2_SCL Length:1181.886mil is not within 50mil tolerance of Length:4602.176mil (3370.29mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net I2C2_SDA Length:1253.009mil is not within 50mil tolerance of Length:4602.176mil (3299.166mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net JTAG_MOD Length:768.544mil is not within 50mil tolerance of Length:4602.176mil (3783.632mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net JTAG_TCK Length:969.382mil is not within 50mil tolerance of Length:4602.176mil (3582.793mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net JTAG_TDI Length:840.567mil is not within 50mil tolerance of Length:4602.176mil (3711.608mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net JTAG_TDO Length:823.338mil is not within 50mil tolerance of Length:4602.176mil (3728.838mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net JTAG_TMS Length:781.245mil is not within 50mil tolerance of Length:4602.176mil (3770.931mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net JTAG_TRST Length:852.333mil is not within 50mil tolerance of Length:4602.176mil (3699.843mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_CLK Length:1458.558mil is not within 50mil tolerance of Length:4602.176mil (3093.617mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA0 Length:1670.442mil is not within 50mil tolerance of Length:4602.176mil (2881.734mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA1 Length:1734.461mil is not within 50mil tolerance of Length:4602.176mil (2817.714mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA10 Length:1378.226mil is not within 50mil tolerance of Length:4602.176mil (3173.95mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA11 Length:1342.505mil is not within 50mil tolerance of Length:4602.176mil (3209.67mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA12 Length:1318.326mil is not within 50mil tolerance of Length:4602.176mil (3233.849mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA13 Length:1561.154mil is not within 50mil tolerance of Length:4602.176mil (2991.022mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA14 Length:1222.519mil is not within 50mil tolerance of Length:4602.176mil (3329.657mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA15 Length:1321.4mil is not within 50mil tolerance of Length:4602.176mil (3230.776mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA16 Length:1373.921mil is not within 50mil tolerance of Length:4602.176mil (3178.255mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA17 Length:1453.168mil is not within 50mil tolerance of Length:4602.176mil (3099.008mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA18 Length:1456.615mil is not within 50mil tolerance of Length:4602.176mil (3095.561mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA19 Length:1177.012mil is not within 50mil tolerance of Length:4602.176mil (3375.164mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA2 Length:1613.275mil is not within 50mil tolerance of Length:4602.176mil (2938.901mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA20 Length:1460.658mil is not within 50mil tolerance of Length:4602.176mil (3091.517mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA21 Length:1417.395mil is not within 50mil tolerance of Length:4602.176mil (3134.781mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA22 Length:1534.764mil is not within 50mil tolerance of Length:4602.176mil (3017.411mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA23 Length:1505.145mil is not within 50mil tolerance of Length:4602.176mil (3047.03mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA3 Length:1590.408mil is not within 50mil tolerance of Length:4602.176mil (2961.768mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA4 Length:1612.035mil is not within 50mil tolerance of Length:4602.176mil (2940.14mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA5 Length:1476.343mil is not within 50mil tolerance of Length:4602.176mil (3075.832mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA6 Length:1394.406mil is not within 50mil tolerance of Length:4602.176mil (3157.769mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA7 Length:1498.707mil is not within 50mil tolerance of Length:4602.176mil (3053.468mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA8 Length:1410.209mil is not within 50mil tolerance of Length:4602.176mil (3141.966mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_DATA9 Length:1389.866mil is not within 50mil tolerance of Length:4602.176mil (3162.309mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_EN Length:1258.9mil is not within 50mil tolerance of Length:4602.176mil (3293.276mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_HSYNC Length:1233.512mil is not within 50mil tolerance of Length:4602.176mil (3318.664mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net LCD_VSYNC Length:1165.228mil is not within 50mil tolerance of Length:4602.176mil (3386.948mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net MT3420_FB_ARM Length:310.533mil is not within 50mil tolerance of Length:4602.176mil (4241.643mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net MT3420_FB_DDR Length:146.545mil is not within 50mil tolerance of Length:4602.176mil (4405.631mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NAND_ALE Length:1324.711mil is not within 50mil tolerance of Length:4602.176mil (3227.465mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NAND_CE0 Length:1353.433mil is not within 50mil tolerance of Length:4602.176mil (3198.743mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NAND_CE1 Length:1299.771mil is not within 50mil tolerance of Length:4602.176mil (3252.405mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NAND_CLE Length:1244.769mil is not within 50mil tolerance of Length:4602.176mil (3307.407mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NAND_DATA0 Length:1243.365mil is not within 50mil tolerance of Length:4602.176mil (3308.81mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NAND_DATA1 Length:1245.837mil is not within 50mil tolerance of Length:4602.176mil (3306.338mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NAND_DATA2 Length:1350.421mil is not within 50mil tolerance of Length:4602.176mil (3201.755mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NAND_DATA3 Length:1217.925mil is not within 50mil tolerance of Length:4602.176mil (3334.251mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NAND_DATA4 Length:1296.578mil is not within 50mil tolerance of Length:4602.176mil (3255.598mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NAND_DATA5 Length:1253.193mil is not within 50mil tolerance of Length:4602.176mil (3298.982mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NAND_DATA6 Length:1320.303mil is not within 50mil tolerance of Length:4602.176mil (3231.872mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NAND_DATA7 Length:1244.717mil is not within 50mil tolerance of Length:4602.176mil (3307.458mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NAND_DQS Length:1222.826mil is not within 50mil tolerance of Length:4602.176mil (3329.349mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NAND_RE Length:1244.357mil is not within 50mil tolerance of Length:4602.176mil (3307.818mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NAND_READY Length:187.62mil is not within 50mil tolerance of Length:4602.176mil (4364.556mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NAND_WE Length:1288.616mil is not within 50mil tolerance of Length:4602.176mil (3263.559mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NAND_WP Length:1245.475mil is not within 50mil tolerance of Length:4602.176mil (3306.7mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetC1_2 Length:66.489mil is not within 50mil tolerance of Length:4602.176mil (4485.687mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetC108_2 Length:130.459mil is not within 50mil tolerance of Length:4602.176mil (4421.717mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetC11_2 Length:79.053mil is not within 50mil tolerance of Length:4602.176mil (4473.122mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetC12_1 Length:208.469mil is not within 50mil tolerance of Length:4602.176mil (4343.706mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetC19_1 Length:53.005mil is not within 50mil tolerance of Length:4602.176mil (4499.17mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetC2_2 Length:469.075mil is not within 50mil tolerance of Length:4602.176mil (4083.1mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetC20_1 Length:776.73mil is not within 50mil tolerance of Length:4602.176mil (3775.446mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetC20_2 Length:620.994mil is not within 50mil tolerance of Length:4602.176mil (3931.182mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetC25_2 Length:654.998mil is not within 50mil tolerance of Length:4602.176mil (3897.178mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetC33_2 Length:91.804mil is not within 50mil tolerance of Length:4602.176mil (4460.371mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetC45_2 Length:300.12mil is not within 50mil tolerance of Length:4602.176mil (4252.055mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetC48_2 Length:900.673mil is not within 50mil tolerance of Length:4602.176mil (3651.502mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetC6_2 Length:71.465mil is not within 50mil tolerance of Length:4602.176mil (4480.71mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetC88_2 Length:117.37mil is not within 50mil tolerance of Length:4602.176mil (4434.806mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetC95_1 Length:298.706mil is not within 50mil tolerance of Length:4602.176mil (4253.469mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetD1_1 Length:242.782mil is not within 50mil tolerance of Length:4602.176mil (4309.393mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetL1_1 Length:61.742mil is not within 50mil tolerance of Length:4602.176mil (4490.434mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetL2_1 Length:57.872mil is not within 50mil tolerance of Length:4602.176mil (4494.304mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetL3_1 Length:52.799mil is not within 50mil tolerance of Length:4602.176mil (4499.376mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetLED1_1 Length:152.186mil is not within 50mil tolerance of Length:4602.176mil (4399.989mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetQ1_3 Length:78.008mil is not within 50mil tolerance of Length:4602.176mil (4474.167mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetQ2_3 Length:53.631mil is not within 50mil tolerance of Length:4602.176mil (4498.544mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetQ3_3 Length:38.371mil is not within 50mil tolerance of Length:4602.176mil (4513.804mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetQ4_3 Length:84.662mil is not within 50mil tolerance of Length:4602.176mil (4467.513mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetQ5_3 Length:262.381mil is not within 50mil tolerance of Length:4602.176mil (4289.795mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetR10_2 Length:218.952mil is not within 50mil tolerance of Length:4602.176mil (4333.223mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetR14_2 Length:100.21mil is not within 50mil tolerance of Length:4602.176mil (4451.966mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetR30_2 Length:63.786mil is not within 50mil tolerance of Length:4602.176mil (4488.39mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetR31_2 Length:78.745mil is not within 50mil tolerance of Length:4602.176mil (4473.431mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetR32_2 Length:77.933mil is not within 50mil tolerance of Length:4602.176mil (4474.243mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetR38_2 Length:170.927mil is not within 50mil tolerance of Length:4602.176mil (4381.249mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetR39_2 Length:113.293mil is not within 50mil tolerance of Length:4602.176mil (4438.882mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetR41_2 Length:164.713mil is not within 50mil tolerance of Length:4602.176mil (4387.463mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetR42_1 Length:1232.463mil is not within 50mil tolerance of Length:4602.176mil (3319.712mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetR46_2 Length:71.152mil is not within 50mil tolerance of Length:4602.176mil (4481.024mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetR47_2 Length:114.911mil is not within 50mil tolerance of Length:4602.176mil (4437.265mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetR50_1 Length:150.84mil is not within 50mil tolerance of Length:4602.176mil (4401.336mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetR51_1 Length:90.365mil is not within 50mil tolerance of Length:4602.176mil (4461.811mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetR53_2 Length:245.739mil is not within 50mil tolerance of Length:4602.176mil (4306.436mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NetR84_1 Length:78.182mil is not within 50mil tolerance of Length:4602.176mil (4473.994mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NVCC_PLL Length:236.683mil is not within 50mil tolerance of Length:4602.176mil (4315.493mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net NVCC_SD Length:0mil is not within 50mil tolerance of Length:4602.176mil (4552.176mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net nWDOG Length:3525.799mil is not within 50mil tolerance of Length:4602.176mil (1026.377mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net ON_OFF_KEY Length:913.95mil is not within 50mil tolerance of Length:4602.176mil (3638.226mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net PMIC_ON_REQ Length:3964.382mil is not within 50mil tolerance of Length:4602.176mil (587.793mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net PWR_ON_RESET Length:1426.329mil is not within 50mil tolerance of Length:4602.176mil (3125.846mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net RESET Length:2682.007mil is not within 50mil tolerance of Length:4602.176mil (1870.168mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net RTC_XTAL_IN Length:184.927mil is not within 50mil tolerance of Length:4602.176mil (4367.248mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net RTC_XTAL_OUT Length:268.618mil is not within 50mil tolerance of Length:4602.176mil (4283.557mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net SD1_CLK Length:899.373mil is not within 50mil tolerance of Length:4602.176mil (3652.802mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net SD1_CMD Length:871.471mil is not within 50mil tolerance of Length:4602.176mil (3680.704mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net SD1_DATA0 Length:870.055mil is not within 50mil tolerance of Length:4602.176mil (3682.12mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net SD1_DATA1 Length:884.171mil is not within 50mil tolerance of Length:4602.176mil (3668.005mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net SD1_DATA2 Length:884.348mil is not within 50mil tolerance of Length:4602.176mil (3667.828mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net SD1_DATA3 Length:884.293mil is not within 50mil tolerance of Length:4602.176mil (3667.883mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net SNVS_3V3_IN Length:0mil is not within 50mil tolerance of Length:4602.176mil (4552.176mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net SNVS_CAP Length:104.885mil is not within 50mil tolerance of Length:4602.176mil (4447.291mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net SNVS_COIN_IN Length:185.333mil is not within 50mil tolerance of Length:4602.176mil (4366.843mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net SNVS_CSI Length:0mil is not within 50mil tolerance of Length:4602.176mil (4552.176mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net SNVS_IN Length:0mil is not within 50mil tolerance of Length:4602.176mil (4552.176mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net SNVS_TAMPER0 Length:863.617mil is not within 50mil tolerance of Length:4602.176mil (3688.559mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net SNVS_TAMPER1 Length:893.961mil is not within 50mil tolerance of Length:4602.176mil (3658.215mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net SNVS_TAMPER2 Length:778.95mil is not within 50mil tolerance of Length:4602.176mil (3773.226mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net SNVS_TAMPER4 Length:945.635mil is not within 50mil tolerance of Length:4602.176mil (3606.541mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net SNVS_TAMPER5 Length:740.918mil is not within 50mil tolerance of Length:4602.176mil (3811.258mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net SNVS_TAMPER6 Length:3263.074mil is not within 50mil tolerance of Length:4602.176mil (1289.102mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net SNVS_TAMPER7 Length:897.584mil is not within 50mil tolerance of Length:4602.176mil (3654.592mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net SNVS_TAMPER8 Length:938.296mil is not within 50mil tolerance of Length:4602.176mil (3613.879mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net SNVS_TAMPER9 Length:2739.772mil is not within 50mil tolerance of Length:4602.176mil (1812.403mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net UART1_CTS Length:1382.563mil is not within 50mil tolerance of Length:4602.176mil (3169.612mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net UART1_RTS Length:1420.286mil is not within 50mil tolerance of Length:4602.176mil (3131.889mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net UART1_RX Length:1244.789mil is not within 50mil tolerance of Length:4602.176mil (3307.386mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net UART1_TX Length:1451.35mil is not within 50mil tolerance of Length:4602.176mil (3100.825mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net UART2_RX Length:1168.727mil is not within 50mil tolerance of Length:4602.176mil (3383.449mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net UART2_TX Length:1123.496mil is not within 50mil tolerance of Length:4602.176mil (3428.68mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net UART3_RX Length:1144.927mil is not within 50mil tolerance of Length:4602.176mil (3407.249mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net UART3_TX Length:1110.36mil is not within 50mil tolerance of Length:4602.176mil (3441.816mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net USB_OTG1_CHD Length:947.673mil is not within 50mil tolerance of Length:4602.176mil (3604.503mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net USB_OTG1_DN Length:1014.22mil is not within 50mil tolerance of Length:4602.176mil (3537.955mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net USB_OTG1_DP Length:987.797mil is not within 50mil tolerance of Length:4602.176mil (3564.379mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net USB_OTG1_VBUS Length:1274.992mil is not within 50mil tolerance of Length:4602.176mil (3277.183mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net USB_OTG2_DN Length:1001.831mil is not within 50mil tolerance of Length:4602.176mil (3550.345mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net USB_OTG2_DP Length:967.199mil is not within 50mil tolerance of Length:4602.176mil (3584.977mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net USB_OTG2_VBUS Length:1276.507mil is not within 50mil tolerance of Length:4602.176mil (3275.669mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net VDD_ARM_SOC Length:0mil is not within 50mil tolerance of Length:4602.176mil (4552.176mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net XTAL_IN Length:230.208mil is not within 50mil tolerance of Length:4602.176mil (4321.968mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3_PG And Net XTAL_OUT Length:386.208mil is not within 50mil tolerance of Length:4602.176mil (4165.967mil short) 
+   Violation between Matched Net Lengths: Between Net DCDC_3V3 And Net DCDC_3V3_PG Length:0mil is not within 50mil tolerance of Length:4602.176mil (4552.176mil short) 
+Rule Violations :251
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('D0-D7'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1000mil) (InDifferentialPairClass('100ohm'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InDifferentialPairClass('100ohm'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 500
+Waived Violations : 0
+Time Elapsed        : 00:00:03

@@ -1,0 +1,9 @@
+Change Component Comment : Designator=C52 Old Comment=0.22uF New Comment=2.2pF
+Change Component Comment : Designator=C53 Old Comment=0.22uF New Comment=2.2pF
+Change Component Comment : Designator=R34 Old Comment=10K New Comment=1.5K
+Change Component Comment : Designator=R35 Old Comment=10K New Comment=1.5K
+Change Component Comment : Designator=R87 Old Comment=100K New Comment=100K_DNP
+Change Component Comment : Designator=R28 Old Comment=250R New Comment=470R
+Added Pin To Net: NetName=NetR10_2 Pin=C19-1
+Added Pin To Net: NetName=NetR10_2 Pin=Q2-1
+Change Net Name : Old Net Name=NetR10_2 New Net Name=NetC19_1

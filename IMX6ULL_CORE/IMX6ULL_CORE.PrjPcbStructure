@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=FLASH_CSI.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=FLASH_CSI.SchDoc|FileName=INPUT_POWER.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=FLASH_CSI.SchDoc|FileName=LCD_NET_GPIO_JTAG_SD_USB.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=FLASH_CSI.SchDoc|FileName=MX6ULL_DDR.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=FLASH_CSI.SchDoc|FileName=UART_CONTROL.SchDoc|SheetNumber=5

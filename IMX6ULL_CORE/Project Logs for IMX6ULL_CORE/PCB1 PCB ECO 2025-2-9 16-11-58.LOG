@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=5V Pin=C17-2
+Removed Pin From Net: NetName=5V Pin=C18-2
+Removed Pin From Net: NetName=MT3420_FB Pin=C25-1
+Removed Pin From Net: NetName=MT3420_FB Pin=R20-2
+Removed Pin From Net: NetName=MT3420_FB Pin=R24-1
+Removed Pin From Net: NetName=5V Pin=U3-4
+Removed Pin From Net: NetName=MT3420_FB Pin=U5-6
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=NetC17_2 Pin=C18-2
+Added Pin To Net: NetName=NetC17_2 Pin=U3-4
+Change Net Name : Old Net Name=MT3420_FB New Net Name=MT3420_FB_ARM
+Added Pin To Net: NetName=MT3420_FB_DDR Pin=C25-1
+Added Pin To Net: NetName=MT3420_FB_DDR Pin=R20-2
+Added Pin To Net: NetName=MT3420_FB_DDR Pin=R24-1
+Added Pin To Net: NetName=MT3420_FB_DDR Pin=U5-6
+Added Net: Name=MT3420_FB_DDR
+Added Member To Class: ClassName=MX6ULL_DDR Member=Component C79 0.22uF

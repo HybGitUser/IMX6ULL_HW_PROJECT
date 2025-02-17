@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VDD_ARM_SOC Pin=C45-2
+Removed Pin From Net: NetName=VDD_ARM_SOC Pin=C46-2
+Removed Pin From Net: NetName=VDD_ARM_SOC Pin=C47-2
+Removed Pin From Net: NetName=VDD_ARM_SOC Pin=U6-G9
+Removed Pin From Net: NetName=VDD_ARM_SOC Pin=U6-G10
+Removed Pin From Net: NetName=VDD_ARM_SOC Pin=U6-G11
+Removed Pin From Net: NetName=VDD_ARM_SOC Pin=U6-H11
+Added Pin To Net: NetName=NetC45_2 Pin=C45-2
+Added Pin To Net: NetName=NetC45_2 Pin=C46-2
+Added Pin To Net: NetName=NetC45_2 Pin=C47-2
+Added Pin To Net: NetName=NetC45_2 Pin=U6-G9
+Added Pin To Net: NetName=NetC45_2 Pin=U6-G10
+Added Pin To Net: NetName=NetC45_2 Pin=U6-G11
+Added Pin To Net: NetName=NetC45_2 Pin=U6-H11
+Added Net: Name=NetC45_2

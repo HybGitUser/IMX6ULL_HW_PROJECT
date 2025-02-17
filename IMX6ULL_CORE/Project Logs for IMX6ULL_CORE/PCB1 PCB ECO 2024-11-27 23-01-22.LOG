@@ -1,0 +1,9 @@
+Added Component: Designator=U4(TEST)
+Added Pin To Net: NetName=GND Pin=U1-E9
+Added Pin To Net: NetName=GND Pin=U1-R1
+Added Pin To Net: NetName=GND Pin=U4-A
+Added Pin To Net: NetName=GND Pin=U4-B
+Added Pin To Net: NetName=GND Pin=U4-C
+Added Pin To Net: NetName=GND Pin=U4-D
+Added Net: Name=GND
+Added Class: Name=Sheet1

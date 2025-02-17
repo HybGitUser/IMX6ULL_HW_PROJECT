@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=DCDC_3V3 Pin=C80-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C81-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C82-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C83-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C84-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C85-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C86-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=U8-C6
+Added Pin To Net: NetName=DCDC_3V3 Pin=U8-E6
+Added Pin To Net: NetName=DCDC_3V3 Pin=U8-F5
+Added Pin To Net: NetName=DCDC_3V3 Pin=U8-J10
+Added Pin To Net: NetName=DCDC_3V3 Pin=U8-K9
+Added Pin To Net: NetName=DCDC_3V3 Pin=U8-M4
+Added Pin To Net: NetName=DCDC_3V3 Pin=U8-N4
+Added Pin To Net: NetName=DCDC_3V3 Pin=U8-P3
+Added Pin To Net: NetName=DCDC_3V3 Pin=U8-P5
+Added Member To Class: ClassName=INPUT_POWER Member=Component C48 22uF
+Added Member To Class: ClassName=MX6ULL_DDR Member=Component C62 0.22uF

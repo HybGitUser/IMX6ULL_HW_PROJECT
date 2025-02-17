@@ -1,0 +1,43 @@
+Added Component: Designator=U1(TFBGA-96_L13.0-W8.0-R16-C6-P0.80-TL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20211010/C2846880_25C25525A0D39896ACD07C0DDF82E4D8.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "NT5CC256M16EP-EK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "扩展库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "NT5CC256M16EP-EK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nanya(南亚科技)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "NT5CC256M16EP-EK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "VFBGA-96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2846880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "NT5CC256M16EP-EK"; VariantName = "[No Variations]"
+Added Component: Designator=U2(TFBGA-96_L13.0-W8.0-R16-C6-P0.80-TL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20211010/C2846880_25C25525A0D39896ACD07C0DDF82E4D8.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "NT5CC256M16EP-EK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "扩展库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "NT5CC256M16EP-EK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nanya(南亚科技)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "NT5CC256M16EP-EK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "VFBGA-96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2846880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "NT5CC256M16EP-EK"; VariantName = "[No Variations]"
+Added Component: Designator=U3(TFBGA-96_L13.0-W8.0-R16-C6-P0.80-TL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20211010/C2846880_25C25525A0D39896ACD07C0DDF82E4D8.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "NT5CC256M16EP-EK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "扩展库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "NT5CC256M16EP-EK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nanya(南亚科技)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "NT5CC256M16EP-EK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "VFBGA-96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2846880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "NT5CC256M16EP-EK"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-E9
+Added Pin To Net: NetName=GND Pin=U1-R1
+Added Net: Name=GND
+Added Class: Name=Sheet1
